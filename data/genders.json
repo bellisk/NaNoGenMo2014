@@ -1,0 +1,32 @@
+{
+    "noun": {
+        "m": "man",
+        "f": "woman",
+        "n": "person"
+    },
+    "subject": {
+        "m": "he",
+        "f": "she",
+        "n": "they"
+    },
+    "object": {
+        "m": "him",
+        "f": "her",
+        "n": "them"
+    },
+    "poss_adj": {
+        "m": "his",
+        "f": "her",
+        "n": "their"
+    },
+    "poss_pronoun": {
+        "m": "his",
+        "f": "hers",
+        "n": "theirs"
+    },
+    "reflexive": {
+        "m": "himself",
+        "f": "herself",
+        "n": "themself"
+    }
+}

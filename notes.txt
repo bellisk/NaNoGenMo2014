@@ -1,0 +1,4 @@
+- person class to generate consistent characters
+- segments for different segments of text, e.g. descriptions of places, people, actions
+- seed description segments from gutenberg?
+
